@@ -1,0 +1,6 @@
+- 👋 Opa! Sou o Matheus Venancio, 19 anos!
+- Sou Desenvolvedor Web
+- Acadêmico de Ciência da Computação
+- Codando desde os 10 anos de idade!
+- Trabalhando como freelancer
+- Proprietário e professor da empresa Grape Academy!
